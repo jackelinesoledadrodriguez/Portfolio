@@ -94,7 +94,7 @@ section {
   scroll-margin-top: 50px;
 
 }
-.caja-a-cerca-de-mi {
+.caja-acerca-de-mi {
   background-color: #f7e4f8;
   color: #353577;
   padding: 1.5rem;
@@ -104,7 +104,7 @@ section {
   max-width:max-content;
   line-height: 1.6;
 }
-.caja-a-cerca-de-mi p{
+.caja-acerca-de-mi p{
     margin: auto;
     width: 100%;
 }
